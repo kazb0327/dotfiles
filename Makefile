@@ -14,4 +14,5 @@ defaults:
 
 # install macOS applications.
 brew:
+	eval "$(/opt/homebrew/bin/brew shellenv)"
 	.bin/brew.sh
