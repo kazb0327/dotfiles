@@ -8,5 +8,8 @@ fi
 # install xcode
 xcode-select --install
 
+# install Rosetta2
+sudo softwareupdate --install-rosetta
+
 # install brew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
