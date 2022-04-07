@@ -5,6 +5,10 @@
 ## 自動大文字の無効化
 defaults write NSGlobalDomain NSAutomaticCapitalizationEnabled -bool false
 
+## キーボード設定
+defaults write NSGlobalDomain InitialKeyRepeat -int 15
+defaults write NSGlobalDomain KeyRepeat -int 2
+
 # Dock関連
 
 # Finder関連
