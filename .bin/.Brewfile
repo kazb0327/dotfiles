@@ -6,7 +6,7 @@ tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/services"
 tap "microsoft/git"
-
+tap "sanemat/font"
 brew "openssl@1.1"
 brew "sqlite"
 brew "awscli"
@@ -31,6 +31,7 @@ brew "telnet"
 brew "tmux"
 brew "wget"
 brew "zsh"
+brew "sanemat/font/ricty", args: ["with-powerline"]
 cask "appcleaner"
 cask "docker"
 cask "font-ricty-diminished"
@@ -47,10 +48,8 @@ cask "toggl-track"
 cask "visual-studio-code"
 cask "xmind"
 cask "zoom"
-
+#mas "GarageBand", id: 682658836
+#mas "iMovie", id: 408981434
 #mas "Keynote", id: 409183694
-#mas "Mobility", id: 1097637587
 #mas "Numbers", id: 409203825
 #mas "Pages", id: 409201541
-#mas "Todoist", id: 585829637
-#mas "Xcode", id: 497799835

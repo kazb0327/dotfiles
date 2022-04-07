@@ -16,3 +16,7 @@ defaults:
 brew:
 	eval "$(/opt/homebrew/bin/brew shellenv)"
 	.bin/brew.sh
+
+# post processing (after macOS applications installed)
+post-process:
+	.bin/post-process.sh
