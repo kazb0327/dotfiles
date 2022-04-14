@@ -1,0 +1,8 @@
+{
+    "emacs-mcx.useMetaPrefixCtrlLeftBracket": true,
+    "editor.fontSize": 13,
+    "emacs-mcx.useMetaPrefixEscape": true,
+    "editor.renderWhitespace": "boundary",
+    "emacs-mcx.cursorMoveOnFindWidget": true,
+    "workbench.colorTheme": "Solarized Light"
+}
