@@ -2,6 +2,11 @@
 
 scripts for set up macOS.
 
+## 参考記事
+
+以下の記事を参考にさせていただきました。
+https://dev.classmethod.jp/articles/joined-mac-dotfiles-customize/
+
 ## Install
 ```
 $ cd ~/ && git clone https://github.com/kazb0327/dotfiles
