@@ -4,5 +4,6 @@
     "emacs-mcx.useMetaPrefixEscape": true,
     "editor.renderWhitespace": "boundary",
     "emacs-mcx.cursorMoveOnFindWidget": true,
-    "workbench.colorTheme": "Solarized Light"
+    "workbench.colorTheme": "Solarized Light",
+    "workbench.startupEditor": "none"
 }
